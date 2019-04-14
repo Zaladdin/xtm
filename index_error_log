@@ -1,0 +1,62 @@
++----------------------------------------------------------------+
+| Line | test.php                                                |
++----------------------------------------------------------------+
+| 13   | Constant ABSPATH not found.                             |
+| 15   | Function wp_dashboard_setup not found.                  |
+| 17   | Function wp_enqueue_script not found.                   |
+| 19   | Function current_user_can not found.                    |
+| 20   | Function wp_enqueue_script not found.                   |
+| 21   | Function wp_enqueue_script not found.                   |
+| 23   | Function current_user_can not found.                    |
+| 24   | Function wp_enqueue_script not found.                   |
+| 26   | Function add_thickbox not found.                        |
+| 28   | Function wp_is_mobile not found.                        |
+| 29   | Function wp_enqueue_script not found.                   |
+| 32   | Function __ not found.                                  |
+| 35   | Function __ not found.                                  |
+| 37   | Function get_current_screen not found.                  |
+| 42   | Function __ not found.                                  |
+| 49   | Function __ not found.                                  |
+| 50   | Function __ not found.                                  |
+| 55   | Function __ not found.                                  |
+| 60   | Function __ not found.                                  |
+| 61   | Function __ not found.                                  |
+| 62   | Function __ not found.                                  |
+| 63   | Function __ not found.                                  |
+| 68   | Function __ not found.                                  |
+| 73   | Function __ not found.                                  |
+| 75   | Function current_user_can not found.                    |
+| 76   | Function __ not found.                                  |
+| 79   | Function __ not found.                                  |
+| 81   | Function is_blog_admin not found.                       |
+| 81   | Function current_user_can not found.                    |
+| 82   | Function __ not found.                                  |
+| 87   | Function __ not found.                                  |
+| 88   | Function __ not found.                                  |
+| 91   | Function current_user_can not found.                    |
+| 92   | Function __ not found.                                  |
+| 98   | Function __ not found.                                  |
+| 106  | Function __ not found.                                  |
+| 107  | Function __ not found.                                  |
+| 108  | Function __ not found.                                  |
+| 111  | Constant ABSPATH not found.                             |
+| 115  | Function esc_html not found.                            |
+| 118  | Function has_action not found.                          |
+| 118  | Function current_user_can not found.                    |
+| 121  | Function get_user_meta not found.                       |
+| 121  | Function get_current_user_id not found.                 |
+| 123  | Function wp_get_current_user not found.                 |
+| 123  | Function get_option not found.                          |
+| 129  | Function esc_attr not found.                            |
+| 130  | Function wp_nonce_field not found.                      |
+| 131  | Function esc_url not found.                             |
+| 131  | Function admin_url not found.                           |
+| 131  | Function esc_attr_e not found.                          |
+| 131  | Function _e not found.                                  |
+| 142  | Function do_action not found.                           |
+| 148  | Function wp_dashboard not found.                        |
+| 154  | Function wp_print_community_events_templates not found. |
+| 156  | Constant ABSPATH not found.                             |
++----------------------------------------------------------------+
+
+ [ERROR] Found 56 errors 
