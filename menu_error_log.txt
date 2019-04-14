@@ -1,0 +1,123 @@
++-------------------------------------------------------------------------------------------------+
+| Line | test.php                                                                                 |
++-------------------------------------------------------------------------------------------------+
+| 23   | Implicit array creation is not allowed - variable $menu does not exist.                  |
+| 23   | Function __ not found.                                                                   |
+| 25   | Implicit array creation is not allowed - variable $submenu does not exist.               |
+| 25   | Function __ not found.                                                                   |
+| 27   | Function is_multisite not found.                                                         |
+| 28   | Function __ not found.                                                                   |
+| 31   | Function is_multisite not found.                                                         |
+| 31   | Function current_user_can not found.                                                     |
+| 32   | Function wp_get_update_data not found.                                                   |
+| 35   | Function is_multisite not found.                                                         |
+| 36   | Function current_user_can not found.                                                     |
+| 38   | Function current_user_can not found.                                                     |
+| 40   | Function current_user_can not found.                                                     |
+| 45   | Function __ not found.                                                                   |
+| 45   | Variable $update_data might not be defined.                                              |
+| 45   | Function number_format_i18n not found.                                                   |
+| 45   | Variable $update_data might not be defined.                                              |
+| 53   | Function __ not found.                                                                   |
+| 54   | Function __ not found.                                                                   |
+| 56   | Function _x not found.                                                                   |
+| 58   | Function get_taxonomies_for_attachments not found.                                       |
+| 63   | Function esc_attr not found.                                                             |
+| 67   | Function __ not found.                                                                   |
+| 68   | Function _x not found.                                                                   |
+| 70   | Function _x not found.                                                                   |
+| 71   | Function __ not found.                                                                   |
+| 76   | Function current_user_can not found.                                                     |
+| 77   | Function wp_count_comments not found.                                                    |
+| 80   | Function __ not found.                                                                   |
+| 80   | Function absint not found.                                                               |
+| 80   | Function number_format_i18n not found.                                                   |
+| 91   | Function __ not found.                                                                   |
+| 95   | Function get_post_types not found.                                                       |
+| 104  | Function get_post_type_object not found.                                                 |
+| 110  | Function sanitize_html_class not found.                                                  |
+| 118  | Function esc_url not found.                                                              |
+| 120  | Call to function in_array() requires parameter #3 to be set.                             |
+| 137  | Call to function in_array() requires parameter #3 to be set.                             |
+| 147  | Call to function in_array() requires parameter #3 to be set.                             |
+| 151  | Function esc_attr not found.                                                             |
+| 156  | Function get_taxonomies not found.                                                       |
+| 161  | Function esc_attr not found.                                                             |
+| 168  | Function current_user_can not found.                                                     |
+| 170  | Function __ not found.                                                                   |
+| 171  | Function __ not found.                                                                   |
+| 173  | Function add_query_arg not found.                                                        |
+| 173  | Function remove_query_arg not found.                                                     |
+| 173  | Function wp_removable_query_args not found.                                              |
+| 173  | Function wp_unslash not found.                                                           |
+| 174  | Function __ not found.                                                                   |
+| 174  | Function esc_url not found.                                                              |
+| 176  | Function current_theme_supports not found.                                               |
+| 176  | Function current_theme_supports not found.                                               |
+| 177  | Function __ not found.                                                                   |
+| 180  | Function current_theme_supports not found.                                               |
+| 180  | Function current_user_can not found.                                                     |
+| 181  | Function add_query_arg not found.                                                        |
+| 182  | Function __ not found.                                                                   |
+| 182  | Function esc_url not found.                                                              |
+| 185  | Function current_theme_supports not found.                                               |
+| 185  | Function current_user_can not found.                                                     |
+| 186  | Function add_query_arg not found.                                                        |
+| 187  | Function __ not found.                                                                   |
+| 187  | Function esc_url not found.                                                              |
+| 195  | Function is_multisite not found.                                                         |
+| 196  | Function add_action not found.                                                           |
+| 204  | Function _add_themes_utility_last() has no return typehint specified.                    |
+| 206  | Function add_submenu_page not found.                                                     |
+| 206  | Function __ not found.                                                                   |
+| 206  | Function __ not found.                                                                   |
+| 210  | Function is_multisite not found.                                                         |
+| 210  | Function current_user_can not found.                                                     |
+| 212  | Function wp_get_update_data not found.                                                   |
+| 214  | Function number_format_i18n not found.                                                   |
+| 217  | Function __ not found.                                                                   |
+| 219  | Function __ not found.                                                                   |
+| 221  | Function is_multisite not found.                                                         |
+| 223  | Function _x not found.                                                                   |
+| 224  | Function __ not found.                                                                   |
+| 229  | Function current_user_can not found.                                                     |
+| 230  | Function __ not found.                                                                   |
+| 232  | Function __ not found.                                                                   |
+| 235  | Function current_user_can not found.                                                     |
+| 236  | Implicit array creation is not allowed - variable $_wp_real_parent_file does not exist.  |
+| 237  | Function __ not found.                                                                   |
+| 238  | Function current_user_can not found.                                                     |
+| 239  | Function _x not found.                                                                   |
+| 240  | Function is_multisite not found.                                                         |
+| 241  | Function _x not found.                                                                   |
+| 244  | Function __ not found.                                                                   |
+| 246  | Implicit array creation is not allowed - variable $_wp_real_parent_file does not exist.  |
+| 247  | Function __ not found.                                                                   |
+| 248  | Function current_user_can not found.                                                     |
+| 249  | Function __ not found.                                                                   |
+| 250  | Function is_multisite not found.                                                         |
+| 251  | Function __ not found.                                                                   |
+| 255  | Function __ not found.                                                                   |
+| 256  | Function __ not found.                                                                   |
+| 257  | Function __ not found.                                                                   |
+| 258  | Function __ not found.                                                                   |
+| 259  | Function is_multisite not found.                                                         |
+| 259  | Function is_main_site not found.                                                         |
+| 260  | Function __ not found.                                                                   |
+| 262  | Function is_multisite not found.                                                         |
+| 263  | Function __ not found.                                                                   |
+| 267  | Function current_user_can not found.                                                     |
+| 267  | Call to static method text_change_check() on an unknown class WP_Privacy_Policy_Content. |
+| 268  | Function number_format_i18n not found.                                                   |
+| 272  | Function __ not found.                                                                   |
+| 273  | Function _x not found.                                                                   |
+| 274  | Function __ not found.                                                                   |
+| 275  | Function __ not found.                                                                   |
+| 276  | Function __ not found.                                                                   |
+| 277  | Function __ not found.                                                                   |
+| 278  | Function __ not found.                                                                   |
+| 280  | Function __ not found.                                                                   |
+| 308  | Constant ABSPATH not found.                                                              |
++-------------------------------------------------------------------------------------------------+
+
+ [ERROR] Found 117 errors 
