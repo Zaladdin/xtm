@@ -1,0 +1,98 @@
++----------------------------------------------------------------------+
+| Line | test.php                                                      |
++----------------------------------------------------------------------+
+| 36   | Function nocache_headers not found.                           |
+| 38   | Function get_option not found.                                |
+| 39   | Function flush_rewrite_rules not found.                       |
+| 40   | Function update_option not found.                             |
+| 47   | Function do_action not found.                                 |
+| 48   | Function get_option not found.                                |
+| 48   | Undefined variable: $wp_db_version                            |
+| 48   | Construct empty() is not allowed. Use more strict comparison. |
+| 49   | Function is_multisite not found.                              |
+| 50   | Function wp_redirect not found.                               |
+| 50   | Function admin_url not found.                                 |
+| 50   | Function wp_unslash not found.                                |
+| 67   | Function apply_filters not found.                             |
+| 68   | Function get_blog_count not found.                            |
+| 75   | Constant ABSPATH not found.                                   |
+| 75   | Constant WPINC not found.                                     |
+| 76   | Function wp_remote_get not found.                             |
+| 77   | Function admin_url not found.                                 |
+| 84   | Function do_action not found.                                 |
+| 91   | Constant ABSPATH not found.                                   |
+| 93   | Function auth_redirect not found.                             |
+| 96   | Function wp_next_scheduled not found.                         |
+| 96   | Function wp_installing not found.                             |
+| 97   | Function wp_schedule_event not found.                         |
+| 101  | Function wp_next_scheduled not found.                         |
+| 101  | Function wp_installing not found.                             |
+| 102  | Function wp_schedule_event not found.                         |
+| 105  | Function set_screen_options not found.                        |
+| 107  | Function __ not found.                                        |
+| 108  | Function __ not found.                                        |
+| 110  | Function wp_enqueue_script not found.                         |
+| 131  | Function wp_unslash not found.                                |
+| 132  | Function plugin_basename not found.                           |
+| 135  | Function post_type_exists not found.                          |
+| 141  | Function taxonomy_exists not found.                           |
+| 148  | Constant ABSPATH not found.                                   |
+| 150  | Constant ABSPATH not found.                                   |
+| 152  | Constant ABSPATH not found.                                   |
+| 155  | Function current_user_can not found.                          |
+| 156  | Function wp_raise_memory_limit not found.                     |
+| 169  | Function do_action not found.                                 |
+| 172  | Construct empty() is not allowed. Use more strict comparison. |
+| 178  | Function get_plugin_page_hook not found.                      |
+| 180  | Function get_plugin_page_hook not found.                      |
+| 183  | Construct empty() is not allowed. Use more strict comparison. |
+| 183  | Function get_plugin_page_hook not found.                      |
+| 185  | Construct empty() is not allowed. Use more strict comparison. |
+| 190  | Function wp_redirect not found.                               |
+| 190  | Function admin_url not found.                                 |
+| 206  | Function set_current_screen not found.                        |
+| 231  | Function do_action not found.                                 |
+| 233  | Constant ABSPATH not found.                                   |
+| 253  | Function do_action not found.                                 |
+| 255  | Function validate_file not found.                             |
+| 256  | Function wp_die not found.                                    |
+| 256  | Function __ not found.                                        |
+| 259  | Constant WP_PLUGIN_DIR not found.                             |
+| 259  | Constant WP_PLUGIN_DIR not found.                             |
+| 259  | Constant WPMU_PLUGIN_DIR not found.                           |
+| 259  | Constant WPMU_PLUGIN_DIR not found.                           |
+| 260  | Function wp_die not found.                                    |
+| 260  | Function __ not found.                                        |
+| 275  | Function do_action not found.                                 |
+| 278  | Constant ABSPATH not found.                                   |
+| 281  | Constant WPMU_PLUGIN_DIR not found.                           |
+| 282  | Constant WPMU_PLUGIN_DIR not found.                           |
+| 284  | Constant WP_PLUGIN_DIR not found.                             |
+| 288  | Constant ABSPATH not found.                                   |
+| 295  | Function current_user_can not found.                          |
+| 296  | Function wp_die not found.                                    |
+| 296  | Function __ not found.                                        |
+| 299  | Function validate_file not found.                             |
+| 300  | Function wp_redirect not found.                               |
+| 300  | Function admin_url not found.                                 |
+| 305  | Function wp_redirect not found.                               |
+| 305  | Function admin_url not found.                                 |
+| 316  | Function do_action not found.                                 |
+| 320  | Function __ not found.                                        |
+| 323  | Constant ABSPATH not found.                                   |
+| 326  | Constant ABSPATH not found.                                   |
+| 340  | Function apply_filters not found.                             |
+| 341  | Function kses_init_filters not found.                         |
+| 346  | Constant ABSPATH not found.                                   |
+| 349  | Function flush_rewrite_rules not found.                       |
+| 365  | Function do_action not found.                                 |
+| 373  | Function do_action not found.                                 |
+| 375  | Function do_action not found.                                 |
+| 379  | Function do_action not found.                                 |
+| 381  | Function do_action not found.                                 |
+| 384  | Function do_action not found.                                 |
+| 388  | Construct empty() is not allowed. Use more strict comparison. |
+| 399  | Function do_action not found.                                 |
++----------------------------------------------------------------------+
+
+ [ERROR] Found 92 errors 
